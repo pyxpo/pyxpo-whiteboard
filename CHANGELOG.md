@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Moved to its own repository, github.com/pyxpo/pyxpo-whiteboard, with CI on Python 3.9 and 3.12 and releases from tags.
+- Added a security policy, a contributing guide and issue templates.
 - Color picker tool (`"picker"`, `on_pick`), three more shapes (diamond, hexagon, heart), dashed lines and
   outlines (`dash`, `DashToggle`), a page pattern on screen (`pattern`: grid, dots or lined; `PatternPicker`) and
   a full color spectrum (`ColorGrid`, `color_grid`). `WhiteboardToolbar` gains `patterns` and `spectrum`.
