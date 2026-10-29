@@ -1,5 +1,7 @@
 # pyxpo-whiteboard
 
+[![CI](https://github.com/pyxpo/pyxpo-whiteboard/actions/workflows/ci.yml/badge.svg)](https://github.com/pyxpo/pyxpo-whiteboard/actions/workflows/ci.yml) [![PyPI](https://img.shields.io/pypi/v/pyxpo-whiteboard)](https://pypi.org/project/pyxpo-whiteboard/) [![Python](https://img.shields.io/pypi/pyversions/pyxpo-whiteboard)](https://pypi.org/project/pyxpo-whiteboard/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 A whiteboard for [pyxpo](https://github.com/pyxpo/pyxpo) apps written in Python: pen, marker, eraser, fill bucket, color
 picker and nine shapes, solid or dashed, on a plain, grid, dot or lined page, with undo, redo, clear and export to PNG or
 JPEG. It comes with a ready toolbar and with the single toolbar pieces, so you can use it as is or lay the controls out
